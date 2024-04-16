@@ -5,11 +5,11 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual dos compositores famosos de música clássica é um padre?");
+    var respostaTime = prompt("resposável por coletar polén e fazer mel");
 
     
-    if (respostaTime.toLowerCase() === "VIVALDI") {
-      alert("Isso mesmo! Vivaldi que era padre!");
+    if (respostaTime.toLowerCase() === "abelha") {
+      alert("Isso mesmo!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("OQUE??? Tente novamente:)");
