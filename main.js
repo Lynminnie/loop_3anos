@@ -8,7 +8,7 @@ function verificarTime() {
     var respostaTime = prompt("Qual dos compositores famosos de música clássica é um padre?");
 
     
-    if (respostaTime.toLowerCase() === "Vivaldi") {
+    if (respostaTime.toLowerCase() === "VIVALDI") {
       alert("Isso mesmo! Vivaldi que era padre!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
