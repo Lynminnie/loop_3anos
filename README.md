@@ -7,7 +7,7 @@
     <img src="turmadt.png" alt="Logo" >
   </a>
 
-<h3 align="center">Projeto de Vida - Turma DT</h3>
+<h3 align="center">Música clássica - Turma DT</h3>
 
   <p align="center">
     Projeto construído no Grupo de Formadores Trilha de Programação II | 1ª Jornada de 2024
@@ -26,7 +26,7 @@
   <summary>Conteúdos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o projeto</a>
+      <a href="#about-the-project">Música Clássica</a>
       <ul>
         <li><a href="#built-with">Tecnologias</a></li>
       </ul>
